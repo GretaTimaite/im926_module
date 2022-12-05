@@ -1,0 +1,100 @@
+---
+title: "im926_slides"
+format: revealjs
+---
+
+## Method
+
+Consider a particular **method** or particular methodological approach that you would use for a doctoral research project (e.g. questionnaire, interview, observation, focus group, secondary data analysis). **Explain** the **principles** on which you would design your ‘instrument’ and the **opportunities** and **problems** you foresee and/or might experience.
+
+## Research question 
+
+:::{.incremental}
+
+- Which types of experts today make knowledge claims about social aspects of AI across the sciences, engineering, social science and humanities? 
+
+- How is epistemic relevance and authority established in the AI research field? 
+
+- What kinds of knowledge claims become influential in policy and media domains?
+
+:::
+
+## Focus
+
+Formal academic communication:
+
+- academic journals
+- conference proceedings
+- ...
+
+## Scientometrics
+
+![](images/scientometrics.png)
+
+## How?
+
+![Hervas-Oliver and Albors 2015](images/methods.png)
+
+## Let the issues begin...
+
+**Unit**:
+
+- researchers
+- papers
+- journals
+
+**Data collection + sampling:**
+
+- peer-reviewed academic journals (Scopus, Web of Science)
+- archives (e.g. arXiv)
+- keywords
+
+##
+
+**Making sense:**
+
+- following edges
+- tables not as useful anymore
+
+##
+
+![Small 1973](images/co-citation_table.png)
+
+## Visual Network Analysis
+
+![Venturini et al. 2021](images/vna.png)
+
+## 
+
+- relational data exploration 
+  - mapping and spatialisation (force-directed layouts)
+- community detection (non/algorithmic)
+- Interpretative turn?
+- quant + qual?
+
+## Algortihms and software
+
+- Gephi, VosViewer, Python, R
+  - degree of control and unboxing the "black box"
+      - open source
+  - degree of reproducibility
+- Different spatialisation algorithms in different tools
+  - how does it shape the understanding of a network?
+- community detection 
+- visualisation design
+  - static/interactive
+  
+  
+##
+
+![Decuypere and Simons 2014](images/eugene_original.png)
+
+
+##
+
+![R, own](images/redesign_clusters.png)
+
+
+##
+
+![Vosviewer, own](images/messy_network.png)

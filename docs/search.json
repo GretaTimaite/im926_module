@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "im926_slides.html#method",
+    "href": "im926_slides.html#method",
+    "title": "im926_slides",
+    "section": "Method",
+    "text": "Method\nConsider a particular method or particular methodological approach that you would use for a doctoral research project (e.g. questionnaire, interview, observation, focus group, secondary data analysis). Explain the principles on which you would design your ‘instrument’ and the opportunities and problems you foresee and/or might experience."
+  },
+  {
+    "objectID": "im926_slides.html#research-question",
+    "href": "im926_slides.html#research-question",
+    "title": "im926_slides",
+    "section": "Research question",
+    "text": "Research question\n\n\nWhich types of experts today make knowledge claims about social aspects of AI across the sciences, engineering, social science and humanities?\nHow is epistemic relevance and authority established in the AI research field?\nWhat kinds of knowledge claims become influential in policy and media domains?"
+  },
+  {
+    "objectID": "im926_slides.html#focus",
+    "href": "im926_slides.html#focus",
+    "title": "im926_slides",
+    "section": "Focus",
+    "text": "Focus\nFormal academic communication:\n\nacademic journals\nconference proceedings\n…"
+  },
+  {
+    "objectID": "im926_slides.html#scientometrics",
+    "href": "im926_slides.html#scientometrics",
+    "title": "im926_slides",
+    "section": "Scientometrics",
+    "text": "Scientometrics"
+  },
+  {
+    "objectID": "im926_slides.html#how",
+    "href": "im926_slides.html#how",
+    "title": "im926_slides",
+    "section": "How?",
+    "text": "How?\n\nHervas-Oliver and Albors 2015"
+  },
+  {
+    "objectID": "im926_slides.html#let-the-issues-begin",
+    "href": "im926_slides.html#let-the-issues-begin",
+    "title": "im926_slides",
+    "section": "Let the issues begin…",
+    "text": "Let the issues begin…\nUnit:\n\nresearchers\npapers\njournals\n\nData collection + sampling:\n\npeer-reviewed academic journals (Scopus, Web of Science)\narchives (e.g. arXiv)\nkeywords"
+  },
+  {
+    "objectID": "im926_slides.html#section",
+    "href": "im926_slides.html#section",
+    "title": "im926_slides",
+    "section": "",
+    "text": "Making sense:\n\nfollowing edges\ntables not as useful anymore"
+  },
+  {
+    "objectID": "im926_slides.html#section-1",
+    "href": "im926_slides.html#section-1",
+    "title": "im926_slides",
+    "section": "",
+    "text": "Small 1973"
+  },
+  {
+    "objectID": "im926_slides.html#visual-network-analysis",
+    "href": "im926_slides.html#visual-network-analysis",
+    "title": "im926_slides",
+    "section": "Visual Network Analysis",
+    "text": "Visual Network Analysis\n\nVenturini et al. 2021"
+  },
+  {
+    "objectID": "im926_slides.html#section-2",
+    "href": "im926_slides.html#section-2",
+    "title": "im926_slides",
+    "section": "",
+    "text": "relational data exploration\n\nmapping and spatialisation (force-directed layouts)\n\ncommunity detection (non/algorithmic)\nInterpretative turn?\nquant + qual?"
+  },
+  {
+    "objectID": "im926_slides.html#algortihms-and-software",
+    "href": "im926_slides.html#algortihms-and-software",
+    "title": "im926_slides",
+    "section": "Algortihms and software",
+    "text": "Algortihms and software\n\nGephi, VosViewer, Python, R\n\ndegree of control and unboxing the “black box”\n\nopen source\n\ndegree of reproducibility\n\nDifferent spatialisation algorithms in different tools\n\nhow does it shape the understanding of a network?\n\ncommunity detection\nvisualisation design\n\nstatic/interactive"
+  },
+  {
+    "objectID": "im926_slides.html#section-3",
+    "href": "im926_slides.html#section-3",
+    "title": "im926_slides",
+    "section": "",
+    "text": "Decuypere and Simons 2014"
+  },
+  {
+    "objectID": "im926_slides.html#section-4",
+    "href": "im926_slides.html#section-4",
+    "title": "im926_slides",
+    "section": "",
+    "text": "R, own"
+  },
+  {
+    "objectID": "im926_slides.html#section-5",
+    "href": "im926_slides.html#section-5",
+    "title": "im926_slides",
+    "section": "",
+    "text": "Vosviewer, own"
+  }
+]
